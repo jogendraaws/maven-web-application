@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.59.220.93:9980/mithuntechnologies/repository/wallmart-releases/</url>
+	      <name>cloudapp-rel Releases Nexus Repository</name>
+	      <url>http://3.236.145.202:8081/repository/cloudapp-rel/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.59.220.93:9980/mithuntechnologies/repository/wallmart-snapshot/</url>
+	      <name>cloudapp-snapshot Snapshot Nexus Repository </name>
+	      <url>http://3.236.145.202:8081/repository/cloudapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
