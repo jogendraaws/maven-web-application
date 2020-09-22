@@ -93,7 +93,7 @@
 		</dependency>
 		
 	</dependencies>
-	<!-- provided dependencies -->
+	
 
 	
 	<distributionManagement>
@@ -101,14 +101,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>cloudapp-rel Releases Nexus Repository</name>
-	      <url>http://3.235.252.226:8081/repository/my1stproject-release/</url>
+	      <url>http://3.235.252.226:8081/repository/maven-releases/</url>
 	    </repository>
 	    
-	 <!--  <snapshotRepository>
-	//      <id>nexus</id>
-	//      <name>my1stproject Snapshot Nexus Repository </name>
-	      <url>http://3.235.252.226:8081/repository/my1stproject-snapshot/</url>
-	//    </snapshotRepository> -->
+	  <snapshotRepository>
+	      <id>nexus</id>
+	      <name>my1stproject Snapshot Nexus Repository </name>
+	      <url>http://3.235.252.226:8081/repository/maven-snapshots/</url>
+	     </snapshotRepository> -->
 	    
 	</distributionManagement>
 	
