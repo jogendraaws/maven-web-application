@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>cloudapp-rel Releases Nexus Repository</name>
-	      <url>http://3.236.145.202:8081/repository/cloudapp-rel/</url>
+	      <url>http://3.235.252.226:8081/repository/my1stproject-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>cloudapp-snapshot Snapshot Nexus Repository </name>
-	      <url>http://3.236.145.202:8081/repository/cloudapp-snapshot/</url>
+	      <name>my1stproject Snapshot Nexus Repository </name>
+	      <url>http://3.235.252.226:8081/repository/my1stproject-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
