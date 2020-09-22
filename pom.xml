@@ -93,6 +93,8 @@
 		</dependency>
 		
 	</dependencies>
+	<!-- provided dependencies -->
+
 	
 	<distributionManagement>
 	
@@ -102,11 +104,11 @@
 	      <url>http://3.235.252.226:8081/repository/my1stproject-release/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>my1stproject Snapshot Nexus Repository </name>
+	 <!--  <snapshotRepository>
+	//      <id>nexus</id>
+	//      <name>my1stproject Snapshot Nexus Repository </name>
 	      <url>http://3.235.252.226:8081/repository/my1stproject-snapshot/</url>
-	    </snapshotRepository>
+	//    </snapshotRepository> -->
 	    
 	</distributionManagement>
 	
